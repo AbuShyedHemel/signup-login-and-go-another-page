@@ -1,0 +1,47 @@
+body{
+    background-color: indigo;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(98, 4, 160);
+}
+.container{
+    margin-left: 35%;
+    height: 280px;
+    margin-top: 300px;
+    width: 35%;
+    background-color: rgb(196, 133, 33);
+    box-shadow: 5px 10px 10px 5px rgba(0,0,0,0.2);
+}
+input{
+    width: 97%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 6px;
+   
+    resize: vertical;
+    padding: 10px;
+    margin: 10px;
+}
+textarea{
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.btn
+{
+    padding: 15%;
+    margin-left: 20%;
+}
+button{
+    
+    background-color: aliceblue;
+    color: blue;
+    padding: 20px;
+    box-shadow: 5px 10px 10px 5px rgba(0,0,0,0.2);
+}
